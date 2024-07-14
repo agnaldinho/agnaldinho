@@ -44,4 +44,5 @@ Você pode me encontrar em:
 <a href="https://www.linkedin.com/in/agnaldo-pereira-da-silva-junior-2b08181a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 Obrigado por visitar meu perfil!
