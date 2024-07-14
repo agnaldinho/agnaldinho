@@ -6,7 +6,6 @@ Bem-vindo ao meu perfil no GitHub!
 
 - 🔭 Atualmente estou trabalhando como analista de suporte na Stone
 - 🌱 Atualmente estou aprendendo C#
-- 👯 Estou procurando colaborar em projetos open source
 - 🤔 Estou procurando ajuda com otimização de algoritmos e boas práticas de desenvolvimento
 - 💬 Pergunte-me sobre suporte técnico, atendimento ao cliente e resolução de problemas de software
 - ⚡ Curiosidade: Sou apaixonado por música, gosto de jogar e ver animes
