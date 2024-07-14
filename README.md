@@ -24,20 +24,18 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou aprendendo 
 
 ## Projetos Destacados
 
-### [Nome do Projeto 1](link-do-projeto-1)
-Descrição breve do projeto.
+### [Porta Fácil)
+Objetivo do Porta Fácil é ler arquivos XML de cupons fiscais ou notas fiscais e coletar informações de produtos e clientes, integrando essas informações no sistema de ERP Posto Fácil para facilitar e otimizar o tempo do cliente.
 
-### [Nome do Projeto 2](link-do-projeto-2)
-Descrição breve do projeto.
+### [PFCONC)
+Atualmente, atuo no sistema de ERP Posto Fácil, na equipe de conciliação, onde os cartões são conciliados automaticamente. Uma vez conciliados, não é possível alterá-los. Percebi que a maioria dos clientes deseja que alguns cartões possam ser modificados, então desenvolvi um programa que permite desconciliar esses cartões. O programa pesquisa por período ou NSU e autorização do cartão, e ao selecionar o cartão, basta clicar no botão "desconciliar" para conseguir alterá-lo.
 
-### [Nome do Projeto 3](link-do-projeto-3)
-Descrição breve do projeto.
 
 ## Contato
 
 Você pode me encontrar em:
 
-- [LinkedIn]([seu-linkedin](https://www.linkedin.com/in/agnaldo-pereira-da-silva-junior-2b08181a2/))
+- [LinkedIn](https://www.linkedin.com/in/agnaldo-pereira-da-silva-junior-2b08181a2/)
 - [Instagram](https://www.instagram.com/agnas0/)
 
 Obrigado por visitar meu perfil!
