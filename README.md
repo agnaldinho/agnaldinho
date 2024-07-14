@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil no GitHub!
 
 Aqui estão algumas das tecnologias e ferramentas com as quais estou aprendendo ou tenho conhecimento:
 
-![C#](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />)
+![C#](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"//>)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />)
