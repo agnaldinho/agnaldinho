@@ -38,17 +38,10 @@ Atualmente, atuo no sistema de ERP Posto Fácil, na equipe de conciliação, ond
 
 Você pode me encontrar em:
 
-- [LinkedIn](https://www.linkedin.com/in/agnaldo-pereira-da-silva-junior-2b08181a2/)
-- [Instagram](https://www.instagram.com/agnas0/)
-
-Obrigado por visitar meu perfil!
-
-
-## Contato
-
-Você pode me encontrar em:
-
-- [LinkedIn](https://www.linkedin.com/in/agnaldo-pereira-da-silva-junior-2b08181a2/)
-- [Instagram](https://www.instagram.com/agnas0/)
+<div>
+<a href="https://www.instagram.com/agnas0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:agnaldopereira97@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/agnaldo-pereira-da-silva-junior-2b08181a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Obrigado por visitar meu perfil!
